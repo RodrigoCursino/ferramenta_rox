@@ -1,0 +1,17 @@
+{
+    "name": "rodrigo/ferramenta_rox",
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Cursino",
+            "email": "rodrigoapmc@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-json": "*"
+    }
+}
